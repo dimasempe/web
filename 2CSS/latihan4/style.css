@@ -1,0 +1,16 @@
+/* belajar mengenal text sty7ling! */
+
+h1 {
+  font-size:150px;
+  color:rgb(250,23,23);
+}
+p{
+  text-align:justify;
+  text-indent:20px;
+  text-decoration:underline;
+  text-transform:capitalize;
+  letter-spacing:5px;
+  word-spacing:10px;
+}
+
+a{text-decoration:none;}

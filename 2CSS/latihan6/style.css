@@ -1,0 +1,25 @@
+.hello {
+  color:orange;
+}
+
+.hello:hover {
+  font-family:arial;
+  font-size:20px;
+  color:green;
+}
+
+.hello:active {
+  font-style:italic;
+}
+
+li:nth-child(3n-2) a {
+  color:pink
+}
+
+li:nth-child(odd) a:hover {
+  color:red;
+}
+
+p:first-of-type {
+  color:brown;
+}
